@@ -1,0 +1,52 @@
+body{background-color:red;
+
+text-align: center;
+
+}
+
+h1{color: white;
+
+
+}
+
+body{background-color: red;
+
+    
+    background-image:url(img/food.png);
+    background-size:cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    margin:0;
+    height:100vh;
+
+color:bisque;
+font-size: larger;
+
+}
+p3{font-weight: 300;
+
+
+
+}
+.logo{
+    width:600;
+    margin-top: 100px;
+    margin-left: 50px
+
+
+}
+
+
+  
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 5px;
+    
+  }
+  
+
+    
+
+
